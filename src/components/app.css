@@ -1,0 +1,38 @@
+.header {
+    background-image: url("strokers.jpeg");
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 200px;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+.about {
+    color: white;
+    text-align: center;
+
+}
+
+.hours {
+    text-align: center;
+    color: white;
+}
+
+.homePage {
+    background-color: black;
+}
+
+.pic {
+    background-image: url("download.jpeg");
+    height: 750px;
+    width: 550px;
+}
+
+h5, h6 {
+    color: white;
+}
