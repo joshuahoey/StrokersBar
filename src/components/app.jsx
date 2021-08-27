@@ -27,7 +27,7 @@ class App extends Component {
                         <h4>Our goal is to create a fun and casual atmosphere where anyone can feel welcomed and relaxed.</h4>
                         <h4>If you want to sharpen your pool game or play a few rounds with friends, you can do so on tournament size tables ranging from six feet to nine feet all covered with Samonis cloth.</h4>
                         <h4>We enjoy creating a fun and competitive environment for players of all skill levels.</h4>
-                        <h4>Not in the mood for a game, then come in for a beer and watch a ball game on one of the 5 tv’s or gather with your friends at the b a variety of liquor and beers.</h4>
+                        <h4>Not in the mood for a game, then come in for a beer and watch a ball game on one of the 5 tv’s or gather with your friends at the bar for a variety of liquor and beers.</h4>
                         <h4>Be sure to try out our bartender’s creative specialty cocktails that change with each season.</h4>
                         <h4>Just get in here and have some fun!!</h4>
                         <h4>Featuring twelve tables including</h4>
