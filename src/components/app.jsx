@@ -10,8 +10,8 @@ class App extends Component {
     render() {
         return (
             <div className="homePage" id="homepage">
-                <header className="header" id="header">
-
+                <header id="header">
+                    <Image src="/strokers.jpeg" fluid />
                 </header>
                 <Row>
                     <Col className="hours" id="hours">
@@ -22,7 +22,7 @@ class App extends Component {
                 </Row>
                 <Container>
                 <div className="about row">
-                    <div className="col">
+                    <div className="col-12 col-md">
                         <h1>About US</h1>
                         <h4>Strokers Bar and Billiards is a family-owned friendly neighborhood pool hall and bar, located at 116 Bridge Street in Pelham.</h4>
                         <h4>Our goal is to create a fun and casual atmosphere where anyone can feel welcomed and relaxed.</h4>
@@ -39,7 +39,7 @@ class App extends Component {
                         <h4>Popular with local pros and amateurs, we strive to provide a high quality and fun entertainment!</h4>
                     </div>
                     <div className="col">
-                        <div className="pic" id="pic" ></div>
+                        <Image className="pic" src="/download.jpeg" fluid />
                     </div>
                     <div className="col">
                         <h1>--Draft List--</h1>
