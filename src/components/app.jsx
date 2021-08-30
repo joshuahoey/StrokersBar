@@ -3,6 +3,7 @@ import "./app.css";
 import {Container, Row} from "react-bootstrap";
 import {Col} from "react-bootstrap";
 import {Image} from "react-bootstrap";
+import { useMediaQuery } from 'react-responsive';
 
 class App extends Component {
     state = {}
